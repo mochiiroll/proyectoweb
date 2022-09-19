@@ -1,0 +1,111 @@
+.credencial{
+  color: black;
+  font-family: 'soure sans pro';
+  background-color: whitesmoke;
+  width: 8.56cm;
+  height: 5.398cm;
+  position: relative;
+  border-radius: 10px;
+    overflow: hidden;
+  z-index: 0;
+}
+
+.heading .logo, .heading .subtitle, .foto, img, .datos{
+  position: absolute;
+}
+
+.heading .logo {
+  letter-spacing: -0.4mm;
+  top: -0.7cm;
+  left: 0.6cm;
+  font-size: 1cm;
+}
+
+.datos, .heading .subtitle{
+  list-style: none;
+}
+
+.datos{
+  color: #1e2029;
+  bottom: 50px;
+  left: -30px ;
+  
+}
+
+.heading .subtitle{
+  font-size: 2.6mm;
+  left: 2.2cm;
+  line-height: 3mm;
+  font-weight: 600;
+  color: #617bfd;
+ top: 25px;
+  
+}
+
+
+.edo{
+  width: 100px;
+  right: 100px;
+  
+}
+
+.logo{
+   width: 20px;
+   right: 210px;
+}
+
+.barra{
+  width: 100%;
+  top: 20px;
+}
+
+.mio{
+  width: 60px ;
+  height: 100px;
+  right: 10px;
+  bottom: 60px;
+}
+
+.credi{  color: black;
+  font-family: 'soure sans pro';
+  background-color: whitesmoke;
+  width: 8.56cm;
+  height: 5.398cm;
+  position: relative;
+  border-radius: 10px;
+    overflow: hidden;
+  z-index: 0;
+}
+.subti{
+  top: 15px;
+  left: 12px;
+  color: black;
+
+  
+}
+
+.siuuu{
+  transform: translate(-25.5%, -32.2%) scale(0.6);
+  z-index: -1;
+  top:  20px;
+  left: 200px;
+}
+
+.eme{
+  width: 100px ;
+  bottom: 0px;
+}
+.cua{
+  bottom: 100px ;
+}
+
+
+
+.dani{
+  border: 5px ;
+  right: 10px ;
+}
+.vig{
+  
+bottom: 500px;
+}

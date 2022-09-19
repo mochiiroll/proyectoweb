@@ -1,0 +1,31 @@
+.cuadro{
+  width: 100px ;
+  height: 100px ;
+  background: #FDC57B;
+  right: 30px ;
+  top: 100px ;
+}
+.cuadro1{
+  width: 100px;
+  height: 100px;
+  background: #FDC57B;
+  right: 304px;
+  top: 300px;
+  position: absolute;
+}
+.cuadro2{
+  width: 100px;
+  height: 100px;
+  background: #FDC57B;
+  right: 10px;
+  top: 300px;
+  position: absolute;
+}
+.cuadro3{
+   width: 100px;
+   height: 100px;
+   background: #FDC57B;
+   right: 0px;
+   top: 0px;
+   position: absolute;
+}
